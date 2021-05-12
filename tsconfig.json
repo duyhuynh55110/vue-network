@@ -25,7 +25,7 @@
 
       "@types": ["src/types"],
       "@types/*": ["src/types/*"],
-      "@containers/*": ["src/containers/*"],
+      "@views/*": ["src/views/*"],
     },
     "lib": [
       "esnext",

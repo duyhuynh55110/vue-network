@@ -15,7 +15,9 @@
           <RightSideBar />
 
           <!-- Page Content  -->
-          <router-view />>
+          <div id="content-page" class="content-page">
+            <router-view></router-view>
+          </div>
       </div>
   </div>
 </template>

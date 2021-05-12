@@ -16,7 +16,7 @@
     import { defineComponent, ref } from 'vue'
     import { StoryType } from "@types";
     import { IMAGES } from "@assets";
-    import Stories from "@containers/Auth/Home/components/Stories/index.vue";
+    import Stories from "@views/Auth/Home/components/Stories/index.vue";
 
     export default defineComponent({
         name: "StoriesArea",
